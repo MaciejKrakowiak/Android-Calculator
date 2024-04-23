@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <integer name="v0">0</integer>
+    <integer name="v1">1</integer>
+    <integer name="v2">2</integer>
+    <integer name="v3">3</integer>
+    <integer name="v4">4</integer>
+    <integer name="v5">5</integer>
+    <integer name="v6">6</integer>
+    <integer name="v7">7</integer>
+    <integer name="v8">8</integer>
+    <integer name="v9">9</integer>
+    <string name="a1">( )</string>
+    <string name="clear">C</string>
+    <string name="backspace">←</string>
+    <string name="plusMin">±</string>
+    <string name="plus">+</string>
+    <string name="min">-</string>
+    <string name="result">=</string>
+    <string name="multi">*</string>
+    <string name="dev">/</string>
+    <string name="com">.</string>
+    <string name="log">log</string>
+    <string name="ln">ln</string>
+    <string name="sin">sin</string>
+    <string name="cos">cos</string>
+    <string name="tan">tan</string>
+    <string name="sqrt">√</string>
+    <string name="pow2">x^2</string>
+    <string name="pow">x^y</string>
+    <string name="percent">%</string>
+</resources>
